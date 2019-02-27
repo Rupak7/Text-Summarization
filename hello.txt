@@ -1,0 +1,780 @@
+JOURNAL OF GEOPHYSICAL RESEARCH, VOL. 116, D00P06, doi:10.1029/2010JD015034, 2011
+The temperature structure of the mesosphere over Taiwan
+and comparison with other latitudes
+Uma Das 1 and C. J. Pan 1
+Received 9 September 2010; revised 11 April 2011; accepted 21 April 2011; published 20 July 2011.
+[ 1 ] We present here a detailed investigation of the mesospheric temperature structure over
+Taiwan, a subtropical location, using 9 years of observations (March 2002 to October
+2010) by the Sounding of the Atmosphere using Broadband Emission Radiometry
+(SABER) instrument onboard the Thermosphere‐Ionosphere‐Mesosphere Energetics and
+Dynamics (TIMED) satellite. The mesopause (MP) is always found to be located at a
+higher level with a mean altitude of 98.2 ± 1.8 km and mean temperature of 165.0 ± 5.8 K.
+The climatological study shows that MP is lower and warmer during summer and
+higher and cooler during winter, which is different from the midlatitudes and high latitudes
+as well as from low latitudes. The temperatures of the mesospheric temperature inversions
+(MTI) and secondary minimum (SM), on the other hand, are lower during summer and
+higher during winter, and their altitudes do not show any annual variation. It is found
+that the thermal structure over Taiwan undergoes a phase shift between 89 and 95 km, and
+above this region it is in phase with the solar flux. Since MP is always above these
+altitudes, it shows a seasonal variation that is in phase with the solar energy inputs, and the
+temperatures below (that of MTI and SM) show the opposite seasonal variation caused by
+mesospheric adiabatic cooling and warming processes.
+Citation: Das, U., and C. J. Pan (2011), The temperature structure of the mesosphere over Taiwan and comparison with other
+latitudes, J. Geophys. Res., 116, D00P06, doi:10.1029/2010JD015034.
+1. Introduction
+[ 2 ] The mesosphere, which extends from approximately
+50 to 100 km, exhibits many interesting phenomena and
+hence is a very intriguing region of the atmosphere. Primary
+heating and cooling mechanisms of the mesosphere are
+mostly in nonlocal thermodynamical equilibrium. Heat input
+to the mesosphere is through direct solar radiation, chemical
+heating from exothermic reactions and by collisional
+quenching. The cooling of mesosphere is through radiative
+processes, primarily, the infrared emission from CO 2 (at 15 mm),
+ozone and water vapor. The mesospheric energy budget is
+also influenced by dynamics through gravity wave breaking,
+turbulence and adiabatic compressional heating due to vertical
+motions. Excellent reviews of the subject are available in
+the literature [Lindzen, 1981; Garcia and Solomon, 1985;
+Hauchecorne et al., 1987; Mlynczak and Solomon, 1991a, 1991b,
+1993; Roble, 1995; Killeen and Johnsson, 1995; Meriwether
+and Mlynczak, 1995; Beig et al., 2003].
+[ 3 ] Although the mesosphere is located well above the
+Earth’s surface, its structure can be altered by human
+activities. Imprints of such changes can be clearly seen in
+mesospheric chemical composition and temperature. It is
+difficult to quantify the mesospheric variability due to these
+1
+Institute of Space Science, National Central University, Jhongli,
+Taiwan.
+Published in 2011 by the American Geophysical Union.
+effects because of the presence of the much stronger natural
+sources of variabilities, namely, the seasonal, annual, and
+solar cycle variations.
+[ 4 ] The accurate measurement of mesospheric temperature
+is a challenging problem. Although, a number of methods
+have been used for temperature measurement, each of these
+has some merits as well as disadvantages. Some of these
+methods are hydroxyl airglow, Rayleigh lidar, Na and K
+lidars, rocket grenades, falling spheres, etc. [Lübken and von
+Zahn, 1991; Keckhut et al., 1995; Whiteway et al., 1995; von
+Zahn et al., 1996; She and von Zahn, 1998; Leblanc et al.,
+1998; She et al., 2000; Lübken and Mullemann, 2003; Beig
+et al., 2003; Chu et al., 2005; Beig, 2006]. All these methods
+are limited to certain local times and particular locations
+over the land. A large number of these studies pertain to the
+Northern Hemisphere and less to the Southern Hemisphere.
+Also, most of these were for midlatitudes and high latitudes.
+On the other hand, satellite observations provide a global
+picture, thereby enabling one to understand the mesosphere
+and its morphology as a whole [Thulasiraman and Nee,
+2002; Shepherd et al., 2004; Xu et al., 2007; Kishore Kumar
+et al., 2008; Venkat Ratnam et al., 2010]. Using daytime
+zonally averaged temperatures from the Wind Imaging
+Interferometer (WINDII) instrument onboard the Upper
+Atmosphere Research Satellite (UARS) for the period 1991–
+1997, the global variability of mesospheric temperature was
+investigated in detail at three altitudes: 75, 82 and 87 km
+[Shepherd et al., 2004]. A strong semiannual oscillation in
+equatorial and tropical latitudes and dominant annual (winter
+maximum and summer minimum), 90 day and 60 day
+D00P06
+1 of 9D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+oscillations in midlatitudes and high latitudes were observed.
+A quasi‐biennial oscillation (QBO) was also observed
+extending from 45°S to 65°N.
+[ 5 ] The mesopause (hereinafter referred to as MP), now
+considered more as a region than a layer [Beig et al., 2003],
+is the coldest part of the atmosphere. Using shipborne lidar
+measurements during April–July 1996, von Zahn et al.
+[1996] showed that there are two distinct levels of MP
+altitude on the global scale and that MP was lower (86 ± 3 km)
+and cooler (150–170 K) in the northern midlatitudes and high
+latitudes and higher (100 ± 3 km) and warmer (160–190 K)
+at the other latitudes. Investigation of temperature data for
+MP characteristics from the High Resolution Doppler
+Imager (HRDI) instrument onboard the UARS satellite also
+revealed a lower and cooler MP during summer and a higher
+and warmer MP in winter [Thulasiraman and Nee, 2002;
+Venkat Ratnam et al., 2004]. Xu et al. [2007] also got the
+same results for MP characteristics using the observations
+of the Sounding of the Atmosphere using Broadband
+Emission Radiometry (SABER) onboard the Thermosphere‐
+Ionosphere‐Mesosphere Energetics and Dynamics (TIMED)
+satellite during 2002–2006. The switch over from the
+summer‐type MP to the winter‐type MP takes place in
+30°–40° latitude. In addition, MP characteristics are also
+strongly modulated by the diurnal and the semidiurnal tides
+at all latitudes. Many ground‐based measurements from
+midlatitudes and high latitudes also showed the presence of
+the two‐level MP [Leblanc et al., 1998; She and von Zahn,
+1998; States and Gardner, 2000; She et al., 2000]. At the
+equator and tropical latitudes, MP is at the higher altitude
+during all seasons with no significant variations [Xu et al.,
+2007; Kishore Kumar et al., 2008; Venkat Ratnam et al.,
+2010].
+[ 6 ] The mesospheric inversion layer or the mesospheric
+temperature inversion (hereinafter called MTI), first
+observed by Schmidlin [1976] in temperature profiles mea-
+sured using falling spheres and acoustic grenades, is another
+interesting phenomenon in the mesosphere [Meriwether and
+Gardner, 2000]. In low latitudes and midlatitudes MTIs
+were observed with great regularity in both upper meso-
+sphere (60–70 km) and the MP region (90–100 km).
+Majority of the studies on MTIs have been conducted from
+midlatitudes based on Rayleigh and Na lidar measurements
+[Hauchecorne et al., 1987; Whiteway et al., 1995; Leblanc and
+Hauchecorne, 1997; She et al., 2000; States and Gardner,
+2000; Chu et al., 2005, etc.] and a few studies from the low
+latitudes [Siva Kumar et al., 2001; Venkat Ratnam et al., 2002].
+Using the measurements from two midlatitude stations in
+France, Observatoire de Haute‐Provence (OHP, 44°N, 5°E)
+and Centre d’Essais des Landes (CEL, 44°N, 1°W),
+Hauchecorne et al. [1987] showed that the altitude of MTI
+has an annual variation occurring in 70–83 km during
+summer and at further lower altitudes during winter. The
+altitude of the secondary minimum, which is the temperature
+minimum below the inversion layer (following the termi-
+nology of Hauchecorne et al. [1987] and hereinafter referred
+to as SM), also follows an annual variation.
+[ 7 ] Studies on mesospheric temperature structure over
+subtropical latitudes have been very few. Using Na lidar
+measurements Clemesha et al. [1999] showed that MP
+temperature and altitude over a subtropical station, Sao Jose
+D00P06
+dos Campos (23°S, 46°W), Brazil, during July to October
+1998 were 190 K and 103 km, respectively. Leblanc et al.
+[1998] showed from Rayleigh lidar measurements over
+Mauna Loa (MLO; 19.5°N, 155.6°W), Hawaii that the
+mesosphere follows a semiannual cycle under the influence
+of the equatorial dynamics and is also modulated by the
+midlatitude annual cycle. Friedman and Chu [2007] dis-
+cussed the seasonal variations of the nocturnal thermal
+structure of the mesosphere over Arecibo observatory
+(18.35°N, 66.75°W) using K lidar measurements. All these
+studies pertain to the nighttime and thus carry tidal sig-
+natures. A proper diurnal averaging is very important to
+understand accurately the seasonal variations and climato-
+logical features of the mesospheric thermal structure. Such
+an opportunity is provided by satellite measurements. In
+addition, a long database will enhance the statistical sig-
+nificance of the climatology. The present study aims to
+bridge the gap between the current understanding of
+mesosphere over low latitudes and that over midlatitudes
+and high latitudes by investigating the temperature structure
+of mesosphere over Taiwan (centered at 24°N, 121°E), a
+subtropical region in the Northern Hemisphere. We have
+used the temperature data retrieved from the measurements
+of the SABER instrument to investigate in complete detail
+the climatology and other long‐period variations in the alti-
+tudes and temperatures of MP, MTI, SM, and the subtropical
+mesosphere in general.
+2. Data and Analysis
+[ 8 ] The TIMED satellite was launched in December 2001
+in a Sun‐synchronous polar orbit at 625 km with an incli-
+nation of 74.1°. The satellite makes ∼15 orbits per day with
+a period of 1.6 h and takes 60 days to complete a full
+24 h cycle in local time. SABER is one of the four instru-
+ments on the TIMED satellite whose aim is to advance the
+understanding of the structure, energetics, chemistry and
+dynamics of the atmosphere from 20 to 120 km. SABER
+measures the Earth limb emissions in 10 broadband radi-
+ometer channels ranging from 1.27 mm to 17 mm. The
+kinetic temperature from the tropopause to the lower ther-
+mosphere is retrieved from CO 2 15 mm limb emission using
+a full nonlocal thermal equilibrium (non‐LTE) inversion
+method [Mertens et al., 2001, 2004].
+[ 9 ] In the present study we have used the SABER 2A
+level data product of version 1.07 from March 2002 to
+October 2010, a little less than 9 years of data. To investigate
+the mesosphere over Taiwan, we considered a latitude‐
+longitude grid of 6° × 4° covering 21°N–27°N and 119°E–
+123°E region. Figure 1 shows a map of Taiwan and highlights
+the region of interest in the present study by a thick black box.
+[ 10 ] Mertens et al. [2001] have documented the retrieval
+uncertainties to be 1.4 K at 80 km, 7.8 K at 100 km and
+22.5 K at 110 km for the early versions of the temperature
+data from the SABER instrument. Remsberg et al. [2008]
+have shown from their comparison of the latest 1.07 ver-
+sion temperatures with other ground‐based observations that
+the error was within about ±5 K and concluded that the
+temperatures of this version, in the upper mesosphere and
+lower thermosphere region, are of good quality. Considering
+the errors in the non‐LTE parameters, García‐Comas et al.
+[2008] showed that the overall error in these temperatures is
+2 of 9D00P06
+D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+Figure 1. Map showing the grid in which the SABER/
+TIMED observations have been considered in the present
+study to investigate the mesosphere over Taiwan.
+around ±1–2 K below 95 km and ±4 K at 100 km. The errors
+are larger when the temperature profiles have pronounced
+vertical structure, i.e., strong temperature inversion layers,
+and can rise up to ±3 K around 80 km and ±8 K at 90 km.
+The vertical resolution of the SABER temperature profiles is
+∼2 km [Mertens et al., 2004].
+[ 11 ] Each individual SABER temperature profile is
+smoothed using Chebeshyv polynomials with a cut off
+wavelength of 4 km to remove the short‐scale gravity wave
+features and for the accurate identification of MP, MTI, and
+SM. The temperatures and altitudes of MP, MTI and SM are
+identified from each profile and the climatological proper-
+ties investigated. SABER takes 60 days to cover all local
+times at a particular location. However, observations around
+local noon are mostly absent. The temperatures and altitudes
+of MP, MTI, and SM of every 2 months are sorted in local
+time and a least squares fit for 24, 12 and 8 h harmonics is
+performed. The constants obtained from these fits are used
+to compute the diurnal series for every 2 months and aver-
+aged to obtain the bimonthly mean temperatures and alti-
+tudes. This process removes the tidal effects, but the effects
+of planetary‐scale waves may still exist in the averages.
+Similarly, to investigate the mesospheric temperature
+structure, the temperature profiles of every 2 months are
+sorted in local time and a least squares fit for 24, 12 and 8 h
+harmonics is performed at each altitude level. The constants
+obtained from these fits are used to compute the diurnal
+temperature series for every 2 months and averaged to
+obtain the bimonthly mean profile. The months are grouped
+as JF (January–February), MA (March–April), MJ (May–
+June), JA (July–August), SO (September–October), and ND
+(November–December). Since we are interested in the long‐
+period variations and the climatological behavior of the
+mesospheric temperature structure over Taiwan, sorting the
+data at finer temporal scales is not required. Figure 2 shows
+a histogram of the number of temperature profiles available in
+the Taiwan grid during the bimonthly periods from March
+2002 to October 2010. The total number of profiles available
+is 1874 and the average number of profiles is 36 per 2 months.
+[ 12 ] A harmonic analysis is also performed on the alti-
+tudes and temperatures of MP, MTI and SM using the con-
+tinuous wavelet transform (CWT) [Farge, 1992; Torrence
+and Compo, 1998] and the fast Fourier transform (FFT).
+Spectral analysis tools are very important in understanding
+the periodic variations of different parameters in observa-
+tional sciences. The most popular till date is the FFT, which
+is useful for spectral analysis of linear and stationary data.
+However, seldom are geophysical data sets linear and
+stationary. The wavelet transform provides an advancement
+as it is capable of analyzing nonstationary data and gives time‐
+frequency localization [Farge, 1992; Torrence and Compo,
+1998]. The wavelet transform, relative to some basic
+wavelet, provides a flexible time frequency window which
+automatically narrows when observing high‐frequency com-
+ponents and widens when observing low‐frequency compo-
+nents. The technique of using wavelets to identify localized
+power events in time series is now being used and applied in
+various geophysical studies [e.g., Das and Sinha, 2008; Das
+et al., 2009].
+[ 13 ] For a discrete equally spaced time series x n (like in
+the data set used in the present study), where n = 0, 1, ...
+N − 1 is the index in time, the convolution of x n with a
+scaled and translated version of y gives the continuous
+wavelet transform:
+W n ð s Þ 1⁄4
+N 1
+X
+n ′ 1⁄40
+x n ′ y*
+
+
+ð n′  n Þt
+s
+ð1Þ
+[ 14 ] By varying the wavelet scale s and translating along
+the localized time index n, the wavelet coefficients can be
+computed. The wavelet power spectrum, also called spec-
+trogram, is defined as ∣W n (s)∣ 2 . The software written in IDL,
+provided by Torrence and Compo [1998] is used in the
+present analysis. The Morlet wavelet, which is a plane wave
+Figure 2. A histogram showing the number of available
+temperature profiles from SABER during the bimonthly
+periods from March 2002 to October 2010. The average
+number of profiles per 2 months is 36.
+3 of 9D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+D00P06
+condition. The technique is described in detail by Farge
+[1992] and Torrence and Compo [1998].
+3. Mesospheric Parameters and the Long‐Period
+Variations
+Figure 3. A scatterplot of the temperature versus altitude
+of (a) MP, (b) MTI, and (c) SM, obtained from all the indi-
+vidual profiles observed by SABER instrument in the Taiwan
+grid shown in Figure 1. The number of data points (N) for
+MTI and SM was reduced as we applied the definition of
+Hauchecorne et al. [1987] to establish the existence of a
+temperature inversion when investigating individual profiles.
+R is the correlation coefficient. See text for more details.
+modulated by a Gaussian, is used for computing the wavelet
+coefficients. It is a complex wavelet and is given as
+y 0 ð  Þ 1⁄4  1=4 e i! 0  e 2=2
+ð2Þ
+where h is a dimensionless time parameter and w 0 is the
+frequency, here taken to be 6 to satisfy the admissibility
+[ 15 ] Each individual temperature profile available in the
+Taiwan grid is investigated to identify MP, MTI, and SM.
+Figure 3 shows a scatterplot of the altitude versus temper-
+ature of these three features. MP is identified from all the
+available 1874 temperature profiles and Figure 3a shows
+that most of the MPs are concentrated around 100 km,
+although there is a large variation in the temperature. The
+MPs at other altitudes are less in number and the variation
+in temperature is also low. There is no correlation between
+the altitude and temperature of MP (correlation coefficient,
+R = −0.04). For the identification of SM and MTI in the
+individual profiles, we used the definition of Hauchecorne
+et al. [1987], according to which, it is considered that an
+inversion layer exists if the increase above the secondary
+minimum is greater than 10 K. With this criterion, only
+1483 profiles, spread almost uniformly over the 9 year
+period under study, showed the presence of an MTI and a
+corresponding SM. Figure 3b shows the distribution of the
+MTI altitude versus temperature. It can be seen that the
+MTIs are spread over a wide range of altitudes from 70 to
+100 km and temperatures from 180 to 240 K and the overall
+correlation between MTI altitude and the temperature is very
+low (R = −0.14). Figure 3c shows the same for SM and it
+can be seen that the distribution is confined to higher tem-
+peratures at lower altitudes and vice versa. The correlation
+coefficient between the altitude of SM and the temperature
+is −0.61, showing a strong anticorrelation in comparison to
+that of MP and MTI. This could be due to the simple fact
+that the average lapse rate in the mesosphere is positive and
+one finds higher temperatures at lower altitudes. However,
+there are many factors contributing to the formation and
+sustenance of these features in the mesosphere [Lindzen,
+1981; Hauchecorne et al., 1987; Meriwether and Mlynczak,
+1995; Meriwether and Gardner, 2000].
+[ 16 ] Bimonthly mean altitudes and temperatures are
+computed using the procedure described in section 2. The
+mean MP altitude and temperature during the study period
+are 98.2 ± 1.8 km and 165.0 ± 5.8 K, respectively. The mean
+MTI and SM altitudes are 87.0 ± 2.2 km and 80.0 ± 2.0 km,
+respectively, showing that the MTIs are occurring mostly at
+the higher altitudes over Taiwan. The mean MTI and SM
+temperatures are 207.0 ± 3.8 K and 184.9 ± 4.0 K, respec-
+tively. The bimonthly mean altitudes and temperatures of
+MP, MTI, and SM showed significant seasonal variations
+and were subjected to the continuous wavelet transform.
+A linear regression line was first subtracted from each data
+series to remove the DC component and normalized to the
+standard deviation of the same. The CWT, described earlier,
+was applied to each of them. Figure 4 (left) shows the wavelet
+spectrograms of the altitudes and those of the temperatures
+are shown in Figure 4 (right). In Figure 4, the top, middle,
+and bottom plots are for MP, MTI, and SM, respectively. The
+solid and the dotted contours around the high‐power islands
+are the 95% and the 80% confidence levels, respectively. The
+thick solid black line is the “cone of influence” beyond
+which the wavelet coefficients are subject to errors due to
+4 of 9D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+D00P06
+Figure 4. Wavelet spectrograms of the (left) altitudes and (right) temperatures of (top) MP, (middle)
+MTI, and (bottom) SM. The thin solid and dotted contours surrounding the high‐power green to red
+islands are the 95% and 80% confidence levels, respectively. The thick solid black line is the cone of
+influence beyond which the wavelet coefficients are subject to errors. The vertical plot to the right of each
+spectrogram shows the global power spectrum and also the Fourier spectrum along with the 95% and 80%
+confidence levels. Observe the strong annual variations in the MTI and SM temperatures.
+edge effects and are not completely reliable. They are,
+therefore, not discussed hereinafter. The vertical plot beside
+each spectrogram shows the global power spectrum (solid
+circles), which is the time‐averaged wavelet power, and also
+the Fourier power spectrum (stars) of the corresponding data
+series. The 95% and the 80% confidence levels are shown in
+the vertical plots in Figure 4 also by solid and dotted lines,
+respectively.
+[ 17 ] The wavelet spectrogram of MP altitude shows a
+statistically significant annual variation from 2002 to 2006.
+The global power spectrum and the Fourier spectrum also
+show that there is a significant annual variation in MP
+5 of 9D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+Figure 5. The bimonthly climatology of the altitudes and
+temperatures of (top) MP, (middle) MTI, and (bottom) SM.
+altitude and the average amplitude of variation is ±1.5 km.
+An investigation of the phases shows that the altitude is
+lower during summer and higher during winter. There is
+also a less significant semiannual oscillation during 2002–
+2005 and 2008. The wavelet spectrogram of MP tempera-
+ture shows a statistically less significant annual oscillation
+from 2006 to 2009. The phases show that MP temperature is
+high during summer and low during winter and the average
+amplitude of variation is ±4 K. Also, a statistically less
+significant semiannual variation is present during 2004–
+2005 and 2007. The phases show that the temperature is
+high during equinoxes and low during solstices. The global
+power spectra and the Fourier spectra of both MP temper-
+ature and altitude show that the annual variation is domi-
+nant, followed by the semiannual variation. Figure 5 (top,
+middle, and bottom) shows the climatology obtained from
+the bimonthly mean altitudes and temperatures of MP, MTI,
+and SM, respectively. The MP altitude and temperature in
+Figure 5 (top) show annual variations with a lower and
+warmer MP in summer and higher and cooler MP in winter.
+The presence of a statistically less significant semiannual
+variation with maxima during the equinoxes has resulted in
+slightly higher temperatures during MA and SO months.
+These variations are similar to those observed in the wavelet
+spectrograms. The altitude of MP over Gadanki (13.5°N,
+79.2°E), a tropical latitude location in India, was also around
+98 km, but did not show any significant seasonal variation
+and the MP temperature was fluctuating between 178 and
+195 K, with no particular seasonal variation [Venkat Ratnam
+et al., 2010]. In contrast, MP altitude and temperature over
+Taiwan are showing small but significant seasonal varia-
+tions. These variations and the amplitudes of variation are in
+accordance with the earlier study by Xu et al. [2007].
+Similar results were obtained by Chu et al. [2005] over
+Maui, Hawaii (20.7°N) for the MP characteristics using the
+D00P06
+NRLMSIS‐00 model [Picone et al., 2002]. Their results
+showed that the MP altitude in winter was around 99 km and
+around 96 km in summer, with a smooth transition. Their
+observations using a Na lidar, however, showed a summer
+minimum of 87.5 km. At Arecibo observatory also, MP
+temperature was found to be similar to midlatitude variation
+with a winter high and summer low [Friedman, 2003].
+It should be remembered that all these observations were
+limited to nighttime.
+[ 18 ] The altitudes of MTI and SM show statistically sig-
+nificant semiannual variations during 2002–2005 and 2009
+in Figure 4. SM altitude shows a statistically significant
+annual variation only during 2004–2005. The global power
+spectra also show that both peaks are prominent in SM
+altitude, while only the semiannual peak is prominent in
+MTI altitude. The MTI and SM temperatures show statisti-
+cally significant annual oscillations almost throughout the
+entire period of study. The global power spectra also show
+that the annual oscillation is the most dominant. An inves-
+tigation of the phases shows that both temperatures are high
+during winter and low during summer, and this seasonal
+variation is exactly opposite to that seen in MP temperature.
+Figure 5 also shows that the MTI and the SM temperatures
+are high during winter and low during summer, in accor-
+dance with the results obtained from the wavelet analysis.
+The altitudes show a semiannual variation with maxima
+during MA and SO months. Wavelet analysis also showed
+the same results. The SM temperature over Gadanki also
+showed similar seasonal behavior and the SM altitude, while
+showing a semiannual variation, peaked during the solstices
+[Venkat Ratnam et al., 2010]. However, SM was more
+prominent during equinoxes in comparison to solstices. At
+midlatitudes, the altitude of SM showed annual variation
+with maximum during summer and minimum during winter
+[Hauchecorne et al., 1987; Leblanc and Hauchecorne,
+1997].
+4. Variations in the Subtropical Mesosphere
+[ 19 ] Bimonthly climatological profiles obtained by aver-
+aging the bimonthly mean profiles of all years are shown in
+Figure 6. The profile for JF months shows the actual values
+and each successive profile is shifted by 20 K for proper
+visualization. The last profile shown by the thick solid line
+is the average of all bimonthly mean profiles during the
+9 year period. Significant variations can be observed among
+the bimonthly profiles with pronounced differences in the
+mesosphere and MP. It should be remembered that we have
+computed the bimonthly profiles by averaging over all local
+times, and in spite of this analysis procedure, the MTI at
+around 88 km seems to be a prominent feature in the cli-
+matological profiles as well as in the 9 year mean, albeit
+with less amplitude. The MTIs are broader and discernible
+during equinoxes; narrower and discernible during summer
+and not very distinguishable in winter. This is similar to the
+climatology observed over Gadanki. However, the clima-
+tological mean over Taiwan is different from the long‐term
+mean obtained over Gadanki, where the temperature was
+nearly constant in the 75–90 km region [Venkat Ratnam et al.,
+2010].
+[ 20 ] To further understand the long‐term behavior of the
+mesospheric temperature structure over Taiwan, the devia-
+6 of 9D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+Figure 6. The climatology of the bimonthly mean tempera-
+tures observed over Taiwan. The January–February profile
+shows the actual values, and each successive profile is
+shifted by 20 K for better visualization. The last profile,
+shown by the thick solid line, is the mean of all bimonthly
+means during the 9 year period. Observe the small inversion
+feature at 88 km that is present in all the profiles, including
+the 9 year mean profile.
+tions of the bimonthly means from the 9 year climatological
+mean are computed and shown in Figure 7. Grid lines are
+also plotted in Figure 7 to aid the eye. The annual oscilla-
+tions seem to be dominant at almost all altitudes. The
+temperatures are higher in winter and lower in summer in
+the upper mesosphere. At around 95 km, a semiannual
+oscillation is present with solstice minima and equinoctial
+maxima. Above this altitude, the annual variation is once
+again the dominant variation with a phase shift. The tem-
+D00P06
+peratures are showing the opposite seasonal variation with
+cooler winters and warmer summers. To understand these
+variations, a least squares fit of 2 year (quasi‐biennial oscil-
+lation), 1 year (annual oscillation) and half‐year (semiannual
+oscillation) harmonics was performed on the temperature
+fluctuations at each altitude. Figure 8 (left and middle) shows
+the amplitudes and phases of the three oscillations obtained
+from these fits, and Figure 8 (right) shows the correlation
+coefficients of the fits as a function of altitude. The fits are
+not good at 73.0, 86.0, and 90.5 km. It is important to note
+that the amplitude of the annual oscillation is the largest at
+all altitudes except around 95 km, where the amplitude of
+semiannual oscillation dominates. The phase of the annual
+oscillation starts gradually changing at 89 km and under-
+goes a shift of 180° by 95 km and remains constant above.
+The semiannual oscillation also undergoes phase shifts at
+80 and 102 km. Between 80 and 102 km, the semiannual
+oscillation shows solstice minima and equinox maxima and
+above and below this region it shows the opposite variations.
+Also, the correlation coefficient is less than 0.6 from 89 to
+95 km, where the phase of the annual oscillation is changing.
+Such a phase shift in the annual oscillation was observed by
+Chu et al. [2005] over Maui in both observations and model
+results. Shepherd et al. [2004] also observed a similar phase
+reversal in the semiannual oscillation over equatorial and
+tropical latitudes with solstice maxima and equinox minima
+at 75 km and the opposite at 87 km. This is similar to the
+semiannual phases observed in the present study.
+[ 21 ] Over midlatitudes and high latitudes MP is cooler and
+around 86 km during summer and warmer and at 95–100 km
+during winter [von Zahn et al., 1996; She and von Zahn, 1998;
+States and Gardner, 2000; She et al., 2000; Thulasiraman
+and Nee, 2002; Xu et al., 2007]. Two processes compete to
+define MP and result in such a seasonal variation at these
+latitudes. In summer, there is strong adiabatic cooling
+caused by the mean upward velocities below ∼91 km and
+the annual trend at these heights is cool summer and warm
+Figure 7. The temperature deviations from the 9 year climatological mean. Observe the change in phase
+of the annual oscillation between 89 and 95 km.
+7 of 9D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+D00P06
+Figure 8. (left) Amplitudes and (middle) phases of the quasi‐biennial, annual, and semiannual oscilla-
+tions from the least squares fitting and (right) the correlation coefficients of the fits as a function of altitude.
+winter. Above 98 km, there is increased UV absorption
+by O 2 during summer resulting in high temperatures and
+decreased absorption in winter resulting in low tempera-
+tures. Hence, there are two local minima in the temperature,
+and MP is defined as the lower of these two. In summer,
+adiabatic cooling is very strong and thus, MP drops down to
+lower altitudes at ∼87 km, and during winter, the higher‐
+altitude minimum in 95–100 km, defines the same [States
+and Gardner, 2000]. In comparison, MP altitude over sub-
+tropical latitudes is limited to the upper level and unlike the
+steady MP at equatorial and tropical latitudes [Xu et al.,
+2007; Kishore Kumar et al., 2008; Venkat Ratnam et al.,
+2010] the subtropical MP shows significant seasonal varia-
+tions albeit with less amplitude. The warm summer and cool
+winter MP, is due to the solar energy inputs and is not
+affected by the mesospheric dynamics below. However, the
+MTI and the SM are affected and hence, we observe the
+opposite seasonal variation in their temperatures. This is
+supported by the phase reversal observed in Figure 8 at
+∼88 km and explains the seasonal variations observed in all
+the temperatures in section 3. The adiabatic cooling and
+warming processes in the lower altitudes exist at the sub-
+tropical latitudes also, but are not strong enough to bring
+down the MP.
+[ 24 ] 2. MP altitude and temperature show significant
+annual variation with lower and warmer MP in summer and
+higher and cooler MP in winter. The amplitude of variation
+of MP altitude is only ±1.5 km and that of the temperature is
+±4 K. This seasonal variation is in phase with the solar flux,
+showing that the MP over subtropical latitudes is controlled
+by the solar energy inputs.
+[ 25 ] 3. MTI and SM altitudes are showing weak semi-
+annual oscillations and their temperatures are showing sig-
+nificant annual oscillations being high during winter and low
+during summer. Such a seasonal variation in the temperature
+is the result of adiabatic warming and cooling processes in
+the mesosphere that are in opposite phase to the solar energy
+inputs.
+[ 26 ] 4. A phase jump in the annual variation occurring
+between 89 km and 95 km is observed in accordance with
+earlier studies. This explains the opposite seasonal varia-
+tions in the mesosphere (MTI and SM) temperatures and MP
+temperature.
+[ 27 ] Acknowledgments. The authors acknowledge the SABER/
+TIMED team for providing free access to the temperature data. U.D. and
+C.J.P. are supported by the NSC of Taiwan through grant NSC 99‐2111‐
+M‐008‐006‐MY2. The authors thank all the reviewers for their valuable
+suggestions in improving the manuscript.
+5. Summary
+[ 22 ] The temperature structure of mesosphere over Taiwan,
+a subtropical station, is investigated using observations by
+the SABER instrument onboard the TIMED satellite during
+the period from March 2002 to October 2010. The study
+reveals some interesting features that are different from
+the midlatitudes and high latitudes as well as from the low
+latitudes.
+[ 23 ] 1. MP altitude is confined to the upper level; the
+average altitude is 98.2 ± 1.8 km.
+References
+Beig, G. (2006), Trends in the mesopause region temperature and our
+present understanding—An update, Phys. Chem. Earth, 31, 3–9,
+doi:10.1016/j.pce.2005.03.007.
+Beig, G., et al. (2003), Review of mesospheric temperature trends, Rev.
+Geophys., 41(4), 1015, doi:10.1029/2002RG000121.
+Chu, X., C. S. Gardner, and S. J. Franke (2005), Nocturnal thermal struc-
+ture of the mesosphere and lower thermosphere region at Maui, Hawaii
+(20.7°N), and Starfire Optical Range, New Mexico (35°N), J. Geophys.
+Res., 110, D09S03, doi:10.1029/2004JD004891.
+Clemesha, B. R., I. Veselovskii, P. P. Batista, M. P. Jorge, and D. M.
+Simonich (1999), First mesopause temperature profiles from a fixed
+8 of 9D00P06
+DAS AND PAN: MESOSPHERIC TEMPERATURE OVER TAIWAN
+Southern Hemisphere site, Geophys. Res. Lett., 26, 1681–1684,
+doi:10.1029/1999GL900342.
+Das, U., and H. S. S. Sinha (2008), Long term variations in oxygen green
+line emission over Kiso, Japan from ground photometric observations
+using continuous wavelet transform, J. Geophys. Res., 113, D19115,
+doi:10.1029/2007JD009516.
+Das, U., H. S. S. Sinha, S. Sharma, H. Chandra, and S. K. Das (2009), Fine
+structure of the low‐latitude mesospheric turbulence, J. Geophys. Res.,
+114, D10111, doi:10.1029/2008JD011307.
+Farge, M. (1992), Wavelet transforms and their applications to turbulence,
+Annu. Rev. Fluid Mech., 24, 395–458 doi:10.1146/annurev.fl.24.
+010192.002143.
+Friedman, J. S. (2003), Tropical mesopause climatology over the Arecibo
+Observatory, Geophys. Res. Lett., 30(12), 1642, doi:10.1029/
+2003GL016966.
+Friedman, J. S., and X. Chu (2007), Nocturnal temperature structure in the
+mesopause region over the Arecibo Observatory (18.35°N, 66.75°W):
+Seasonal variations, J. Geophys. Res., 112, D14107, doi:10.1029/
+2006JD008220.
+Garcia, R. R., and S. Solomon (1985), The effect of breaking gravity waves
+on the dynamics and chemical composition of the mesosphere and lower
+thermosphere, J. Geophys. Res., 90, 3850–3868, doi:10.1029/
+JD090iD02p03850.
+García‐Comas, M., et al. (2008), Errors in Sounding of the Atmosphere
+using Broadband Emission Radiometry (SABER) kinetic temperature
+caused by non‐local‐thermodynamic‐equilibrium model parameters,
+J. Geophys. Res., 113, D24106, doi:10.1029/2008JD010105.
+Hauchecorne, A., M. L. Chanin, and R. Wilson (1987), Mesospheric tem-
+perature inversion and gravity wave breaking, Geophys. Res. Lett., 14,
+933–936, doi:10.1029/GL014i009p00933.
+Keckhut, P., A. Hauchecorne, and M. L. Chanin (1995), Midlatitude long‐
+term variability of the middle atmosphere: Trends and cyclic and episodic
+changes, J. Geophys. Res., 100, 18,887–18,897, doi:10.1029/95JD01387.
+Killeen, T. L., and R. M. Johnsson (1995), Upper atmospheric waves,
+turbulence, and winds: Importance for mesospheric and thermospheric
+studies, Rev. Geophys., 33(S1), 737–744.
+Kishore Kumar, G., M. Venkat Ratnam, A. K. Patra, S. Vijaya Bhaskara
+Rao, and J. Russell (2008), Mean thermal structure of the low‐latitude
+middle atmosphere studied using Gadanki Rayleigh lidar, Rocket, and
+SABER/TIMED observations, J. Geophys. Res., 113, D23106, doi:10.1029/
+2008JD010511.
+Leblanc, T., and A. Hauchecorne (1997), Recent observations of meso-
+spheric temperature inversions, J. Geophys. Res., 102, 19,471–19,482,
+doi:10.1029/97JD01445.
+Leblanc, T., I. S. McDermid, P. Keckhut, A. Hauchecorne, C. Y. She, and
+D. A. Krueger (1998), Temperature climatology of the middle atmo-
+sphere from long‐term lidar measurements at middle and low latitudes,
+J. Geophys. Res., 103, 17,191–17,204, doi:10.1029/98JD01347.
+Lindzen, R. S. (1981), Turbulence and stress owing to gravity wave and
+tidal breakdown, J. Geophys. Res., 86, 9707–9714, doi:10.1029/
+JC086iC10p09707.
+Lübken, F. J., and A. Mullemann (2003), First in situ temperature measure-
+ments in the summer mesosphere at very high latitudes (78°N), J. Geophys.
+Res., 108(D8), 8448, doi:10.1029/2002JD002414.
+Lübken, F. J., and U. von Zahn (1991), Thermal structure of the mesopause
+region over polar latitudes, J. Geophys. Res., 96, 20,841–20,857,
+doi:10.1029/91JD02018.
+Meriwether, J. W., and C. S. Gardner (2000), A review of the mesosphere
+inversion layer phenomenon, J. Geophys. Res., 105, 12,405–12,416,
+doi:10.1029/2000JD900163.
+Meriwether, J. W., and M. G. Mlynczak (1995), Is chemical heating a
+major cause of the mesosphere inversion layer?, J. Geophys. Res., 100,
+1379–1387, doi:10.1029/94JD01736.
+Mertens, C. J. G. M., M. L. Puertas, P. P. Wintersteiner, R. H. Picard,
+J. R. Winick, L. L. Gordley, and J. M. R. I. I. Ih (2001), Retrieval of
+mesospheric and lower thermospheric kinetic temperature from measure-
+ments of CO 2 15 mm Earth limb emission under non‐LTE conditions,
+Geophys. Res. Lett., 28, 1391–1394, doi:10.1029/2000GL012189.
+Mertens, C. J., et al. (2004), SABER observations of mesospheric tempera-
+tures and comparisons with falling sphere measurements taken during the
+2002 summer MaCWAVE campaign, Geophys. Res. Lett., 31, L03105,
+doi:10.1029/2003GL018605.
+Mlynczak, M. G., and S. Solomon (1991a), Middle atmosphere heating by
+exothermic chemical reactions involving odd‐hydrogen species, Geophys.
+Res. Lett., 18, 37–40, doi:10.1029/90GL02672.
+D00P06
+Mlynczak, M. G., and S. Solomon (1991b), On the efficiency of solar
+heating in the middle atmosphere, Geophys. Res. Lett., 18, 1201–1204,
+doi:10.1029/91GL01525.
+Mlynczak, M. G., and S. Solomon (1993), Detailed evaluation of the heating
+efficiency in the middle atmosphere, J. Geophys. Res., 98, 10,517–10,541,
+doi:10.1029/93JD00315.
+Picone, J. M., A. E. Hedin, D. P. Drob, and A. C. Aikin (2002),
+NRLMSISE‐00 empirical model of the atmosphere: Statistical compari-
+sons and scientific issues, J. Geophys. Res., 107(A12), 1468,
+doi:10.1029/2002JA009430.
+Remsberg, E. E., et al. (2008), Assessment of the quality of the version 1.07
+temperature‐versus‐pressure profiles of the middle atmosphere from
+TIMED/SABER, J. Geophys. Res., 113, D17101, doi:10.1029/
+2008JD010013.
+Roble, R. G. (1995), Energetics of the mesosphere and thermosphere, in
+The Upper Mesosphere and Lower Thermosphere: A Review of Experiment
+and Theory, Geophys. Monogr. Ser., vol. 87, edited by R. M. Johnson and
+T. L. Killeen, pp. 1–22, AGU, Washington, D. C.
+Schmidlin, F. J. (1976), Temperature inversions near 75 km, Geophys. Res.
+Lett., 3, 173–176, doi:10.1029/GL003i003p00173.
+She, C. Y., and U. von Zahn (1998), Concept of a two‐level mesopause:
+Support through new lidar observations, J. Geophys. Res., 103,
+5855–5863, doi:10.1029/97JD03450.
+She, C. Y., S. Chen, Z. Hu, J. Sherman, J. D. Vance, V. Vasoli, M. A. White,
+J. Yu, and D. A. Krueger (2000), Eight‐year climatology of nocturnal
+temperature and sodium density in the mesopause region (80 to 105 km)
+over Fort Collins, Co (41°N, 105°W), Geophys. Res. Lett., 27, 3289–3292,
+doi:10.1029/2000GL003825.
+Shepherd, M. G., W. F. J. Evans, G. Hernandez, D. Offermann, and
+H. Takahashi (2004), Global variability of mesospheric temperature: Mean
+temperature field, J. Geophys. Res., 109, D24117, doi:10.1029/
+2004JD005054.
+Siva Kumar, V., Y. B. Kumar, K. Raghunath, P. B. Rao, M. Krishnaiah,
+K. Mizutani, T. Aoki, M. Yasui, and T. Itabe (2001), Lidar measurements
+of mesospheric temperature inversion at a low latitude, Ann. Geophys., 19,
+1039–1044, doi:10.5194/angeo-19-1039-2001.
+States, R. J., and C. S. Gardner (2000), Thermal structure of the mesopause
+region (80–105 km) at 40°N latitude. Part I: Seasonal variations, J. Atmos.
+Sci., 57, 66–77, doi:10.1175/1520-0469(2000)057<0066:TSOTMR>2.0.
+CO;2.
+Thulasiraman, S., and J. B. Nee (2002), Further evidence of a two‐level
+mesopause and its variations from UARS high‐resolution Doppler imager
+temperature data, J. Geophys. Res., 107(D18), 4355, doi:10.1029/
+2000JD000118.
+Torrence, C., and G. P. Compo (1998), A practical guide to wavelet
+analysis, Bull. Am. Meteorol. Soc., 79, 61–78, doi:10.1175/1520-0477(1998)
+079<0061:APGTWA>2.0.CO;2.
+Venkat Ratnam, M., D. N. Rao, T. N. Rao, M. Krishnaiah, Y. B. Kumar,
+V. S. Kumar, and P. B. Rao (2002), Coordinated MST radar and lidar
+observations for the study of mesospheric structures over a tropical station,
+J. Atmos. Sol. Terr. Phys., 64, 349–358, doi:10.1016/S1364-6826(01)
+00101-8.
+Venkat Ratnam, M., C. M. Shen, W. N. Chen, and J. B. Nee (2004), Study
+on oxygen atmospheric band dayglow: Global and seasonal variations
+deduced from high‐resolution Doppler imager observations, J. Atmos.
+Sol. Terr. Phys., 66, 209–218, doi:10.1016/j.jastp.2003.10.009.
+Venkat Ratnam, M., A. K. Patra, and B. V. Krishna Murthy (2010), Tropical
+mesopause: Is it always close to 100 km?, J. Geophys. Res., 115, D06106,
+doi:10.1029/2009JD012531.
+von Zahn, U., J. Hoffner, V. Eska, and M. Alpers (1996), The mesopause
+altitude: Only two distinctive levels worldwide?, Geophys. Res. Lett., 23,
+3231–3234, doi:10.1029/96GL03041.
+Whiteway, J. A., A. I. Carswell, and W. E. Ward (1995), Mesospheric tem-
+perature inversions with overlying nearly adiabatic lapse rate: An indica-
+tion of a well‐mixed turbulent layer, Geophys. Res. Lett., 22, 1201–1204,
+doi:10.1029/95GL01109.
+Xu, J., H. Liu, W. Yuan, A. K. Smith, R. G. Roble, C. J. Mertens,
+J. M. Russell, and M. G. Mlynczak (2007), Mesopause structure from
+Thermosphere, Ionosphere, Mesosphere, Energetics, and Dynamics
+(TIMED)/Sounding of the Atmosphere Using Broadband Emission
+Radiometry (SABER) observations, J. Geophys. Res., 112, D09102,
+doi:10.1029/2006JD007711.
+U. Das and C. J. Pan, Institute of Space Science, National Central
+University, Jhongli 32001, Taiwan. (umadas@jupiter.ss.ncu.edu.tw)
+9 of 9
